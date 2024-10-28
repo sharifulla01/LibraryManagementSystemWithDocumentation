@@ -54,6 +54,10 @@ The documentation covers system design, use cases, diagrams, and detailed requir
 - Entity-relationship diagrams (ERD)
 
 
+For complete project documentation, refer to [Library Management System Documentation](https://docs.google.com/document/d/1DVkK6goCmvQctPtk9JYpSzKEa0o-mSRpoOzUcPnrtNE/edit?usp=sharing).
+
+
+
 
 
 
